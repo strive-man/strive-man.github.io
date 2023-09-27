@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/2023/09/25/Hexo/</loc>
+    <loc>http://zgq258.top/2023/09/25/Hexo/</loc>
     
     <lastmod>2023-09-26</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/categories/index.html</loc>
+    <loc>http://zgq258.top/categories/index.html</loc>
     
     <lastmod>2023-09-26</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/2023/09/22/%E5%8D%A0%E6%A5%BC3/</loc>
+    <loc>http://zgq258.top/2023/09/22/%E5%8D%A0%E6%A5%BC3/</loc>
     
     <lastmod>2023-09-26</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/2023/09/22/%E5%8D%A0%E6%A5%BC2/</loc>
+    <loc>http://zgq258.top/2023/09/22/%E5%8D%A0%E6%A5%BC2/</loc>
     
     <lastmod>2023-09-26</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/2023/09/22/%E5%8D%A0%E6%A5%BC1/</loc>
+    <loc>http://zgq258.top/2023/09/22/%E5%8D%A0%E6%A5%BC1/</loc>
     
     <lastmod>2023-09-26</lastmod>
     
@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/archives/index.html</loc>
+    <loc>http://zgq258.top/archives/index.html</loc>
     
     <lastmod>2023-05-26</lastmod>
     
@@ -57,7 +57,7 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
+    <loc>http://zgq258.top/</loc>
     <lastmod>2023-09-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -65,14 +65,14 @@
 
   
   <url>
-    <loc>http://example.com/tags/hexo/</loc>
+    <loc>http://zgq258.top/tags/hexo/</loc>
     <lastmod>2023-09-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/%E5%8D%A0%E6%A5%BC/</loc>
+    <loc>http://zgq258.top/tags/%E5%8D%A0%E6%A5%BC/</loc>
     <lastmod>2023-09-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -81,14 +81,14 @@
 
   
   <url>
-    <loc>http://example.com/categories/%E6%95%99%E7%A8%8B%E6%A0%8F/</loc>
+    <loc>http://zgq258.top/categories/%E6%95%99%E7%A8%8B%E6%A0%8F/</loc>
     <lastmod>2023-09-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/categories/%E6%95%99%E7%A8%8B%E6%A0%8F/hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</loc>
+    <loc>http://zgq258.top/categories/%E6%95%99%E7%A8%8B%E6%A0%8F/hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</loc>
     <lastmod>2023-09-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
