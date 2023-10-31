@@ -1,0 +1,21 @@
+以下是一个简单的HTML页面和JavaScript代码，其中包含一个按钮，当点击时会触发dataFormSubmits()方法来获取后端的PDF文件URL并在新窗口中打开：
+
+html
+Copy code
+<!DOCTYPE html>
+<html>
+<head>
+    <title>打开PDF文件</title>
+</head>
+<body>
+    <button id="openPdfButton">打开PDF文件</button>
+    <script>
+        document.getElementById('openPdfButton').addEventListener('click', dataFormSubmit);
+
+        function dataFormSubmit("https://github.com/strive-man/strive-man.github.io/blob/master/save_ok.pdf") {
+      
+                window.open(pdfUrl, '_blank'); // 在新窗口中打开PDF文件
+            };
+    </script>
+</body>
+</html>
